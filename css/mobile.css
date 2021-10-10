@@ -1,0 +1,78 @@
+.display-1 { 
+  font-size: 2.5rem; 
+}
+
+/* Navbar */
+#navbar {
+  padding-top: 30px;
+}
+
+#navbar .logo {
+  float: none;
+}
+
+#navbar img {
+  width: 100%;
+  padding: 20px 120px;
+}
+
+/* Showcase */
+#showcase {
+  padding: 50px 0;
+}
+
+#showcase p {
+  width: 100%;
+}
+
+/* Features */
+#features {
+  padding: 20px 0;
+}
+
+#features .features-row {
+  flex-wrap: wrap;
+}
+
+#features .features-box {
+  padding: 20px;
+}
+
+#features .features-box h4 {
+  padding-top: 10px;
+}
+
+/* EGuide */
+#e-guide {
+  padding: 40px 0;
+}
+
+#e-guide .download-form {
+  padding: 50px 30px;
+  float: none;
+  width: 100%;
+}
+
+#e-guide .download-text {
+  padding: 20px 20px;
+  float: none;
+  width: 100%;
+}
+
+#e-guide .download-text p {
+  width: 100%;
+}
+
+/* Video */
+#video {
+  padding: 30px 0;
+}
+
+#video iframe {
+  margin-top: 20px;
+  width: 100%;
+}
+
+#video p {
+  width: 100%;
+}
