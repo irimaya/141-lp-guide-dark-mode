@@ -1,17 +1,23 @@
-.display-1 { 
-  font-size: 2.5rem; 
+/* Utility Classes */
+.display-1 {
+  font-size: 2.5rem;
+}
+
+/* Header */
+#mainheader {
+  height: 100%;
 }
 
 /* Navbar */
 #navbar {
-  padding-top: 30px;
+    padding-top: 30px;
 }
 
 #navbar .logo {
   float: none;
 }
 
-#navbar img {
+#navbar img{
   width: 100%;
   padding: 20px 120px;
 }
@@ -34,32 +40,29 @@
   flex-wrap: wrap;
 }
 
-#features .features-box {
+#features .features-row-box {
   padding: 20px;
 }
 
-#features .features-box h4 {
+#features .features-row-box h4 {
   padding-top: 10px;
 }
 
-/* EGuide */
-#e-guide {
+
+/* Download */
+#download {
   padding: 40px 0;
 }
 
-#e-guide .download-form {
+#download .download-row-form {
   padding: 50px 30px;
   float: none;
   width: 100%;
 }
 
-#e-guide .download-text {
+#download .download-row-text {
   padding: 20px 20px;
   float: none;
-  width: 100%;
-}
-
-#e-guide .download-text p {
   width: 100%;
 }
 
